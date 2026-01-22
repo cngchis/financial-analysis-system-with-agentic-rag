@@ -1,9 +1,10 @@
+langchain_comunity
+langchain_tavily
+python-dotenv
+openai
+uvicorn
 fastapi
-inngest
+qdrant-client
+streamlit
 llama-index-core
 llama-index-readers-file
-python-dotenv
-qdrant-client
-uvicorn
-streamlit
-openai
